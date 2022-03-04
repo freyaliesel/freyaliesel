@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning: JavaScript and WebDev!
 - 🔭 I’m currently working on: how to keep it simple, I tend to overcomplicate things.
 - ⚡ Fun fact: ... I belong to a sphynx cat!
-- - 📫 How to reach me: freyacodes@gmail.com
+- 📫 How to reach me: freyacodes@gmail.com
 <!--👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
 💬 Ask me about ... -->
