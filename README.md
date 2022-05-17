@@ -8,7 +8,7 @@ But I also go by Freya in online spaces
 
 Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning: JavaScript!
+- 🌱 I’m currently learning: React
 - 🔭 I’m currently working on: how to keep it simple, I tend to overcomplicate things.
 - ⚡ Fun fact: I belong to a sphynx cat!
 <!-- 📫 How to reach me: freyacodes@gmail.com
